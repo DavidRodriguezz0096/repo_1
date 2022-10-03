@@ -1,0 +1,24 @@
+{
+  "name": "repo_1-1",
+  "version": "1.0.0",
+  "description": "Ejercicios Fullstack - Las Flores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidRodriguezz0096/repo_1.git"
+  },
+  "author": "David Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidRodriguezz0096/repo_1/issues"
+  },
+  "homepage": "https://github.com/DavidRodriguezz0096/repo_1#readme",
+  "dependencies": {
+    "@types/node": "^18.8.1",
+    "gitignore": "^0.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
